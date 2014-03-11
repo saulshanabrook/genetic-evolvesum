@@ -1,5 +1,5 @@
 (defproject genetic-evolvesum "0.1.0-SNAPSHOT"
-  :description "Framework for running genetic algorithms"
+  :description "Demonstration GA project to evolve a list with a certain sum"
   :url "https://github.com/saulshanabrook/genetic-evolvesum"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
